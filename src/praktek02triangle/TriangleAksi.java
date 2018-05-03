@@ -8,5 +8,6 @@ public class TriangleAksi {
         
         A1.cetakInfo();
         System.out.println("Keliling triangle = "+A1.hitungkeliling());
+        A1.cetakkeliling();
     }
 }

@@ -17,3 +17,7 @@ public class Triangle {
         keliling=sisi1+sisi2+sisi3;
         return keliling;
 }
+    
+void cetakkeliling(){
+    System.out.println("Keliling adalah: "+hitungkeliling());
+}
