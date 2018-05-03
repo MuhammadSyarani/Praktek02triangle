@@ -3,6 +3,13 @@ public class Triangle {
     double sisi1;
     double sisi2;
     double sisi3;
+
+    public Triangle() {
+        sisi1=11;
+        sisi2=14;
+        sisi3=14;
+    }
+    
     
     void cetakInfo(){
         System.out.println("=======================");
