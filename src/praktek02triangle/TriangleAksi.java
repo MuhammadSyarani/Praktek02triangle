@@ -7,5 +7,6 @@ public class TriangleAksi {
         A1.sisi3 = 9;
         
         A1.cetakInfo();
+        System.out.println("Keliling triangle = "+A1.hitungkeliling());
     }
 }
