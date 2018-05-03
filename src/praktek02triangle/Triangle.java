@@ -9,6 +9,12 @@ public class Triangle {
         sisi2=14;
         sisi3=14;
     }
+
+    public Triangle(double sisi1, double sisi2, double sisi3) {
+        this.sisi1 = sisi1;
+        this.sisi2 = sisi2;
+        this.sisi3 = sisi3;
+    }
     
     
     void cetakInfo(){
